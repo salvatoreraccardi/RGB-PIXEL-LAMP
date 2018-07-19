@@ -1,6 +1,6 @@
 # RGB PIXEL LAMP
 ###### Premise
-**This project isn't completed** <\ br>
+**This project isn't completed** <br>
 My idea is create a dynamic lamp, this lamp have a lot functions as electric save energy, remote control and more. 
 ###### Download library
 *Adafruit_NeoPixel* I use this library for control of led pixel [DOWNLOAD](https://github.com/adafruit/Adafruit_NeoPixel).
