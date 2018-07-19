@@ -51,4 +51,3 @@ void loop() {
    delay(5000);
 }
 ```
-![alt text]()
