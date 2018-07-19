@@ -3,14 +3,14 @@ A simple code for control a rgb led pixel ring.
 ###### Premise
 ###### Download library
 *Adafruit_NeoPixel* I use this library for control of led pixel [DOWNLOAD](https://github.com/adafruit/Adafruit_NeoPixel).
-**Main functions**
+## Main functions
 - [x] RGB SYNC EFFECT
 - [x] Basic function
 - [ ] Light dependent system
 - [ ] Bluetooth control
 - [ ] Temperature / humidity reading
 
-# LED PIXEL SYSTEM ~
+# LED PIXEL SYSTEM 
 ```sh
 #include <Adafruit_NeoPixel.h>
 ```
