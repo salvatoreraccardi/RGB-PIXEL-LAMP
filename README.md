@@ -1,6 +1,7 @@
 # RGB PIXEL LAMP
 A simple code for control a rgb led pixel ring.
 
+**Main functions**
 - [x] RGB SYNC EFFECT
 - [x] Basic function
 - [ ] Light dependent system
