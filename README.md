@@ -1,6 +1,6 @@
 # RGB PIXEL LAMP
-A simple code for control a rgb led pixel ring.
 ###### Premise
+My idea is create a dynamic lamp, this lamp have a lot functions as electric save energy, remote control and more. 
 ###### Download library
 *Adafruit_NeoPixel* I use this library for control of led pixel [DOWNLOAD](https://github.com/adafruit/Adafruit_NeoPixel).
 ## Main functions
