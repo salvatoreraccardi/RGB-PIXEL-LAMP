@@ -1,7 +1,7 @@
 # RGB PIXEL LAMP
 A simple code for control a rgb led pixel ring.
-##Premise
-###Download library
+###### Premise
+###### Download library
 *Adafruit_NeoPixel* I use this library for control of led pixel [DOWNLOAD](https://github.com/adafruit/Adafruit_NeoPixel).
 **Main functions**
 - [x] RGB SYNC EFFECT
