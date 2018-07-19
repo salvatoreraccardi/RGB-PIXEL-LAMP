@@ -10,11 +10,18 @@ A simple code for control a rgb led pixel ring.
 ```sh
 #include <Adafruit_NeoPixel.h>
 ```
-
+```sh
+int  LED=28;
+byte OUTPIN=6;
+```
 ```sh
 Adafruit_NeoPixel pixels = Adafruit_NeoPixel(LED, OUTPIN, NEO_GRB + NEO_KHZ800);
 ```
-
+```sh
+void setup() {
+  pixels.begin();
+}
+```
 ```sh
 void loop() {
     for(int i=0;i<LED;i++){
