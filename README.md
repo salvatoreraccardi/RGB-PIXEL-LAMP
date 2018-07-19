@@ -7,6 +7,9 @@ A simple code for control a rgb led pixel ring.
 - [ ] Light dependent system
 - [ ] Bluetooth control
 - [ ] Temperature / humidity reading
+
+**Download this library**
+[DOWNLOAD](https://github.com/adafruit/Adafruit_NeoPixel).
 ```sh
 #include <Adafruit_NeoPixel.h>
 ```
